@@ -24,6 +24,8 @@ información que un Stefaniner (colaborador de Stefanini) debe conocer como
 parte de esta empresa. Existe mucha información disgregada que se pierde en
 la memoria de los empleados
 
+* Link del proyecto https://intranetstefanini-1cdf1.web.app/
+
  
 ### DATOS
 
